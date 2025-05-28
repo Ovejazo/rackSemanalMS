@@ -1,10 +1,10 @@
-package com.tutorial.clientservice;
+package com.tutorial.racksemanalservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ClientServiceApplicationTests {
+class RackSemanalServiceApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,4 +1,4 @@
-package com.tutorial.clientservice;
+package com.tutorial.racksemanalservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,10 +6,10 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 
 @SpringBootApplication
 @EnableEurekaClient
-public class ClientServiceApplication {
+public class RackSemanalServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ClientServiceApplication.class, args);
+		SpringApplication.run(RackSemanalServiceApplication.class, args);
 	}
 
 }

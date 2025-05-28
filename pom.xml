@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.tutorial</groupId>
-	<artifactId>clientMS</artifactId>
+	<artifactId>rackSemanalMS</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>clientMS</name>
 	<description>Demo project for Spring Boot</description>

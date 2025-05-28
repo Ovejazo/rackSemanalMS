@@ -1,4 +1,4 @@
-package com.tutorial.clientservice.config;
+package com.tutorial.racksemanalservice.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,18 +1,7 @@
 spring:
   application:
-    name: clientMS
+    name: rackSemanalMS
   cloud:
     config:
       enabled: true
       uri: http://localhost:8081
-  datasource:
-    url: jdbc:postgresql://localhost:5432/bdclient
-    username: postgres
-    password: 1234
-    driver-class-name: org.postgresql.Driver
-  jpa:
-    hibernate:
-      ddl-auto: update
-    properties:
-      hibernate:
-        dialect: org.hibernate.dialect.PostgreSQLDialect
